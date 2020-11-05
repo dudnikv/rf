@@ -1,3 +1,3 @@
-module github.com/dudbikv/rf
+module github.com/dudnikv/rf
 
 go 1.13
