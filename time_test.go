@@ -19,6 +19,3 @@ func TestFormat(t *testing.T) {
 	fmt.Println(TimeFormat(strings.Join(fmts, ", "), time.Now()))
 
 }
-
-
-kjgkuyrfkrtfltol7y
